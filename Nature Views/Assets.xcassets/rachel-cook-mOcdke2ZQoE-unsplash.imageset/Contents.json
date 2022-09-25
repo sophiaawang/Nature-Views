@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "rachel-cook-mOcdke2ZQoE-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "rachel-cook-mOcdke2ZQoE-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "rachel-cook-mOcdke2ZQoE-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

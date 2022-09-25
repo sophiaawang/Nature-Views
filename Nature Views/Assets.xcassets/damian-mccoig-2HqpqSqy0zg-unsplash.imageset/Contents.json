@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "damian-mccoig-2HqpqSqy0zg-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "damian-mccoig-2HqpqSqy0zg-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "damian-mccoig-2HqpqSqy0zg-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

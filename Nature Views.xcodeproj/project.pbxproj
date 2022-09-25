@@ -1,0 +1,420 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A46AAAAD263B4B7800223429 /* Forest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A46AAAAC263B4B7800223429 /* Forest.mp3 */; };
+		A46AAAAF263B4F3100223429 /* VideoPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46AAAAE263B4F3100223429 /* VideoPlayerViewController.swift */; };
+		A478F005263C74EA00F5EEB9 /* seagulls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A478F004263C74EA00F5EEB9 /* seagulls.mp3 */; };
+		A478F007263C751800F5EEB9 /* Seagulls.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A478F006263C751800F5EEB9 /* Seagulls.mp4 */; };
+		A478F009263C79A100F5EEB9 /* Under the Sea.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A478F008263C79A100F5EEB9 /* Under the Sea.mp3 */; };
+		A493F8332645AE0900798ABF /* Forest3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A493F8322645AE0900798ABF /* Forest3.mp3 */; };
+		A493F8352645AE1100798ABF /* Waves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A493F8342645AE1100798ABF /* Waves.mp3 */; };
+		A493F8372645B4B200798ABF /* skiing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A493F8362645B4B200798ABF /* skiing.mp4 */; };
+		A493F8392646050300798ABF /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A493F8382646050300798ABF /* EntryViewController.swift */; };
+		A4BE44C82639D5AB0010D54C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44C72639D5AB0010D54C /* AppDelegate.swift */; };
+		A4BE44CA2639D5AB0010D54C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44C92639D5AB0010D54C /* SceneDelegate.swift */; };
+		A4BE44CC2639D5AB0010D54C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44CB2639D5AB0010D54C /* ViewController.swift */; };
+		A4BE44CF2639D5AB0010D54C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4BE44CD2639D5AB0010D54C /* Main.storyboard */; };
+		A4BE44D12639D5AD0010D54C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A4BE44D02639D5AD0010D54C /* Assets.xcassets */; };
+		A4BE44D42639D5AD0010D54C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4BE44D22639D5AD0010D54C /* LaunchScreen.storyboard */; };
+		A4BE44DC2639D7FD0010D54C /* ForestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44DB2639D7FD0010D54C /* ForestViewController.swift */; };
+		A4BE44DE2639D80A0010D54C /* BeachViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44DD2639D80A0010D54C /* BeachViewController.swift */; };
+		A4BE44E02639D8220010D54C /* MountainsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44DF2639D8220010D54C /* MountainsViewController.swift */; };
+		A4BE44E42639D8690010D54C /* FunFactsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BE44E32639D8690010D54C /* FunFactsViewController.swift */; };
+		A4DB7EA8263B2758003D0C66 /* Forest2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A4DB7EA7263B2758003D0C66 /* Forest2.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A46AAAAC263B4B7800223429 /* Forest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Forest.mp3; sourceTree = "<group>"; };
+		A46AAAAE263B4F3100223429 /* VideoPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerViewController.swift; sourceTree = "<group>"; };
+		A478F004263C74EA00F5EEB9 /* seagulls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = seagulls.mp3; sourceTree = "<group>"; };
+		A478F006263C751800F5EEB9 /* Seagulls.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Seagulls.mp4; sourceTree = "<group>"; };
+		A478F008263C79A100F5EEB9 /* Under the Sea.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Under the Sea.mp3"; sourceTree = "<group>"; };
+		A493F8322645AE0900798ABF /* Forest3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Forest3.mp3; sourceTree = "<group>"; };
+		A493F8342645AE1100798ABF /* Waves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Waves.mp3; sourceTree = "<group>"; };
+		A493F8362645B4B200798ABF /* skiing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = skiing.mp4; sourceTree = "<group>"; };
+		A493F8382646050300798ABF /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+		A4BE44C42639D5AB0010D54C /* Nature Views.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nature Views.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4BE44C72639D5AB0010D54C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A4BE44C92639D5AB0010D54C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		A4BE44CB2639D5AB0010D54C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A4BE44CE2639D5AB0010D54C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A4BE44D02639D5AD0010D54C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A4BE44D32639D5AD0010D54C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A4BE44D52639D5AD0010D54C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4BE44DB2639D7FD0010D54C /* ForestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForestViewController.swift; sourceTree = "<group>"; };
+		A4BE44DD2639D80A0010D54C /* BeachViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeachViewController.swift; sourceTree = "<group>"; };
+		A4BE44DF2639D8220010D54C /* MountainsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MountainsViewController.swift; sourceTree = "<group>"; };
+		A4BE44E32639D8690010D54C /* FunFactsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsViewController.swift; sourceTree = "<group>"; };
+		A4DB7EA7263B2758003D0C66 /* Forest2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Forest2.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A4BE44C12639D5AB0010D54C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A478F002263C74AC00F5EEB9 /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				A493F8362645B4B200798ABF /* skiing.mp4 */,
+				A478F006263C751800F5EEB9 /* Seagulls.mp4 */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
+		A478F003263C74BB00F5EEB9 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				A478F008263C79A100F5EEB9 /* Under the Sea.mp3 */,
+				A478F004263C74EA00F5EEB9 /* seagulls.mp3 */,
+				A493F8342645AE1100798ABF /* Waves.mp3 */,
+				A46AAAAC263B4B7800223429 /* Forest.mp3 */,
+				A4DB7EA7263B2758003D0C66 /* Forest2.mp3 */,
+				A493F8322645AE0900798ABF /* Forest3.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		A4BE44BB2639D5AB0010D54C = {
+			isa = PBXGroup;
+			children = (
+				A4BE44C62639D5AB0010D54C /* Nature Views */,
+				A4BE44C52639D5AB0010D54C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A4BE44C52639D5AB0010D54C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A4BE44C42639D5AB0010D54C /* Nature Views.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A4BE44C62639D5AB0010D54C /* Nature Views */ = {
+			isa = PBXGroup;
+			children = (
+				A4BE44C72639D5AB0010D54C /* AppDelegate.swift */,
+				A4BE44C92639D5AB0010D54C /* SceneDelegate.swift */,
+				A4BE44CB2639D5AB0010D54C /* ViewController.swift */,
+				A4BE44CD2639D5AB0010D54C /* Main.storyboard */,
+				A4BE44D02639D5AD0010D54C /* Assets.xcassets */,
+				A4BE44D22639D5AD0010D54C /* LaunchScreen.storyboard */,
+				A4BE44D52639D5AD0010D54C /* Info.plist */,
+				A493F8382646050300798ABF /* EntryViewController.swift */,
+				A4BE44DB2639D7FD0010D54C /* ForestViewController.swift */,
+				A4BE44DD2639D80A0010D54C /* BeachViewController.swift */,
+				A4BE44DF2639D8220010D54C /* MountainsViewController.swift */,
+				A4BE44E32639D8690010D54C /* FunFactsViewController.swift */,
+				A46AAAAE263B4F3100223429 /* VideoPlayerViewController.swift */,
+				A478F003263C74BB00F5EEB9 /* Sounds */,
+				A478F002263C74AC00F5EEB9 /* Videos */,
+			);
+			path = "Nature Views";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A4BE44C32639D5AB0010D54C /* Nature Views */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A4BE44D82639D5AD0010D54C /* Build configuration list for PBXNativeTarget "Nature Views" */;
+			buildPhases = (
+				A4BE44C02639D5AB0010D54C /* Sources */,
+				A4BE44C12639D5AB0010D54C /* Frameworks */,
+				A4BE44C22639D5AB0010D54C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Nature Views";
+			productName = "Nature Trails";
+			productReference = A4BE44C42639D5AB0010D54C /* Nature Views.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A4BE44BC2639D5AB0010D54C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					A4BE44C32639D5AB0010D54C = {
+						CreatedOnToolsVersion = 12.5;
+					};
+				};
+			};
+			buildConfigurationList = A4BE44BF2639D5AB0010D54C /* Build configuration list for PBXProject "Nature Views" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A4BE44BB2639D5AB0010D54C;
+			productRefGroup = A4BE44C52639D5AB0010D54C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A4BE44C32639D5AB0010D54C /* Nature Views */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A4BE44C22639D5AB0010D54C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4BE44D42639D5AD0010D54C /* LaunchScreen.storyboard in Resources */,
+				A46AAAAD263B4B7800223429 /* Forest.mp3 in Resources */,
+				A4BE44D12639D5AD0010D54C /* Assets.xcassets in Resources */,
+				A478F009263C79A100F5EEB9 /* Under the Sea.mp3 in Resources */,
+				A493F8372645B4B200798ABF /* skiing.mp4 in Resources */,
+				A493F8332645AE0900798ABF /* Forest3.mp3 in Resources */,
+				A4BE44CF2639D5AB0010D54C /* Main.storyboard in Resources */,
+				A478F005263C74EA00F5EEB9 /* seagulls.mp3 in Resources */,
+				A4DB7EA8263B2758003D0C66 /* Forest2.mp3 in Resources */,
+				A478F007263C751800F5EEB9 /* Seagulls.mp4 in Resources */,
+				A493F8352645AE1100798ABF /* Waves.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A4BE44C02639D5AB0010D54C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4BE44E42639D8690010D54C /* FunFactsViewController.swift in Sources */,
+				A4BE44DE2639D80A0010D54C /* BeachViewController.swift in Sources */,
+				A4BE44CC2639D5AB0010D54C /* ViewController.swift in Sources */,
+				A4BE44C82639D5AB0010D54C /* AppDelegate.swift in Sources */,
+				A4BE44E02639D8220010D54C /* MountainsViewController.swift in Sources */,
+				A493F8392646050300798ABF /* EntryViewController.swift in Sources */,
+				A46AAAAF263B4F3100223429 /* VideoPlayerViewController.swift in Sources */,
+				A4BE44CA2639D5AB0010D54C /* SceneDelegate.swift in Sources */,
+				A4BE44DC2639D7FD0010D54C /* ForestViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A4BE44CD2639D5AB0010D54C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A4BE44CE2639D5AB0010D54C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A4BE44D22639D5AD0010D54C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A4BE44D32639D5AD0010D54C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A4BE44D62639D5AD0010D54C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A4BE44D72639D5AD0010D54C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A4BE44D92639D5AD0010D54C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Q49G85K6T2;
+				INFOPLIST_FILE = "$(SRCROOT)/Nature Views/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.swang.Nature-Trails";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A4BE44DA2639D5AD0010D54C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Q49G85K6T2;
+				INFOPLIST_FILE = "$(SRCROOT)/Nature Views/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.swang.Nature-Trails";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A4BE44BF2639D5AB0010D54C /* Build configuration list for PBXProject "Nature Views" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A4BE44D62639D5AD0010D54C /* Debug */,
+				A4BE44D72639D5AD0010D54C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A4BE44D82639D5AD0010D54C /* Build configuration list for PBXNativeTarget "Nature Views" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A4BE44D92639D5AD0010D54C /* Debug */,
+				A4BE44DA2639D5AD0010D54C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A4BE44BC2639D5AB0010D54C /* Project object */;
+}

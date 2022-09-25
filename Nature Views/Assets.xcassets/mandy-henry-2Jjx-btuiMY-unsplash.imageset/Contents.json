@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "mandy-henry-2Jjx-btuiMY-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "mandy-henry-2Jjx-btuiMY-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "mandy-henry-2Jjx-btuiMY-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

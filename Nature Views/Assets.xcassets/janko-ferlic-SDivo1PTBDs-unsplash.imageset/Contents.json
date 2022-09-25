@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "janko-ferlic-SDivo1PTBDs-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "janko-ferlic-SDivo1PTBDs-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "janko-ferlic-SDivo1PTBDs-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

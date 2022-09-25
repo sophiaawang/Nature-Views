@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "scott-walsh-CQl3Y5bV6FA-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "scott-walsh-CQl3Y5bV6FA-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "scott-walsh-CQl3Y5bV6FA-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "victoire-joncheray-GpY0eWXuRLE-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "victoire-joncheray-GpY0eWXuRLE-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "victoire-joncheray-GpY0eWXuRLE-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

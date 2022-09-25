@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "mario-alvarez-M1YdS0g8SRA-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "mario-alvarez-M1YdS0g8SRA-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "mario-alvarez-M1YdS0g8SRA-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
